@@ -4,3 +4,5 @@ Example project using Prettier, ESlint, VS Code and GitHub Actions to automatica
 
 Read the full [Medium article](https://medium.com/@ChrisThach/prettier-eslint-vs-code-and-github-actions-deb893f099fd)
 for a full step-by-step walkthrough.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cthach)
